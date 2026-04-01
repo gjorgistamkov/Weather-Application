@@ -1,4 +1,4 @@
-#Weather Application
+# Weather Application
 
 This is a simple weather web application built with HTML, CSS, and vanilla JavaScript that lets you search for any city and instantly view the current weather conditions.
 The app fetches real‑time weather data from a weather API, displays temperature, description, and location, and includes a responsive, minimal UI with clean animations and error handling for invalid cities.
